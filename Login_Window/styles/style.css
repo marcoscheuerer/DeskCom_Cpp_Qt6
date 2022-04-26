@@ -1,0 +1,43 @@
+QPushButton {
+    background-color: rgb(223, 207, 190);
+    border: 1px solid rgb(135, 106, 69);
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+}
+
+QPushButton:hover {
+    background-color: rgb(229, 218, 204);
+}
+
+QPushButton:pressed {
+    border: 2px solid rgb(135, 106, 69);
+}
+
+QLineEdit {
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 10px;
+    padding-left: 10px;
+    height: 30px;
+}
+
+QLineEdit:focus {
+    border: 1px solid rgb(150, 150, 150);
+}
+
+QDialog {
+    background-color: rgb(236, 241, 248);
+    border: 3px solid rgb(28, 46, 74);
+}
+
+#avatarLabel {
+    background-image: url(:/avatars/images/avatar.png);
+    border: 1px solid rgb(100, 100, 100);
+    border-radius: 10px;
+}
+
+#avatarButton {
+    background-image: url(:/avatars/images/avatar.png);
+    border: 1px solid rgb(100, 100, 100);
+    border-radius: 10px;
+}

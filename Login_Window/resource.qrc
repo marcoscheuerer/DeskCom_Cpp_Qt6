@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/avatars">
+        <file>images/avatar.png</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>styles/style.css</file>
+    </qresource>
+    <qresource prefix="/menu/edit">
+        <file>images/iconCopy.png</file>
+        <file>images/iconPaste.png</file>
+        <file>images/iconRedo.png</file>
+        <file>images/iconUndo.png</file>
+        <file>images/iconCut.png</file>
+    </qresource>
+    <qresource prefix="/menu/file">
+        <file>images/iconCross.png</file>
+    </qresource>
+    <qresource prefix="/menu/help">
+        <file>images/iconInformation.png</file>
+        <file>images/iconQt.png</file>
+    </qresource>
+</RCC>
